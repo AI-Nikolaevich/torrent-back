@@ -1,0 +1,22 @@
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Core\bin\Debug\net8.0\Torrent.Core.deps.json
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Core\bin\Debug\net8.0\Torrent.Core.dll
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Core\bin\Debug\net8.0\Torrent.Core.pdb
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Core\obj\Debug\net8.0\Torrent.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Core\obj\Debug\net8.0\Torrent.Core.AssemblyInfoInputs.cache
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Core\obj\Debug\net8.0\Torrent.Core.AssemblyInfo.cs
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Core\obj\Debug\net8.0\Torrent.Core.csproj.CoreCompileInputs.cache
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Core\obj\Debug\net8.0\Torrent.Core.dll
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Core\obj\Debug\net8.0\refint\Torrent.Core.dll
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Core\obj\Debug\net8.0\Torrent.Core.pdb
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Core\obj\Debug\net8.0\ref\Torrent.Core.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Core\bin\Debug\net8.0\Torrent.Core.deps.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Core\bin\Debug\net8.0\Torrent.Core.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Core\bin\Debug\net8.0\Torrent.Core.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Core\obj\Debug\net8.0\Torrent.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Core\obj\Debug\net8.0\Torrent.Core.AssemblyInfoInputs.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Core\obj\Debug\net8.0\Torrent.Core.AssemblyInfo.cs
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Core\obj\Debug\net8.0\Torrent.Core.csproj.CoreCompileInputs.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Core\obj\Debug\net8.0\Torrent.Core.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Core\obj\Debug\net8.0\refint\Torrent.Core.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Core\obj\Debug\net8.0\Torrent.Core.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Core\obj\Debug\net8.0\ref\Torrent.Core.dll

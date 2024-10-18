@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8283C6E-F65F-4870-9567-F0E25D555BF2}|Torrent.Api\\Torrent.Api.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent\\torrent.api\\contracts\\users\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8283C6E-F65F-4870-9567-F0E25D555BF2}|Torrent.Api\\Torrent.Api.csproj|solutionrelative:torrent.api\\contracts\\users\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8283C6E-F65F-4870-9567-F0E25D555BF2}|Torrent.Api\\Torrent.Api.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent\\torrent.api\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8283C6E-F65F-4870-9567-F0E25D555BF2}|Torrent.Api\\Torrent.Api.csproj|solutionrelative:torrent.api\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A3ABB3-C7D1-4BF3-9535-14E97D76409F}|Torrent.Storage\\Torrent.Storage.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent\\torrent.storage\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A3ABB3-C7D1-4BF3-9535-14E97D76409F}|Torrent.Storage\\Torrent.Storage.csproj|solutionrelative:torrent.storage\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C2992D-59E5-45F0-A8BC-4D6A9A828837}|Torrent.Application\\Torrent.Application.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent\\torrent.application\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C2992D-59E5-45F0-A8BC-4D6A9A828837}|Torrent.Application\\Torrent.Application.csproj|solutionrelative:torrent.application\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C2992D-59E5-45F0-A8BC-4D6A9A828837}|Torrent.Application\\Torrent.Application.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent\\torrent.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C2992D-59E5-45F0-A8BC-4D6A9A828837}|Torrent.Application\\Torrent.Application.csproj|solutionrelative:torrent.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 119,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Api\\Contracts\\Users\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "Torrent.Api\\Contracts\\Users\\LoginUserRequest.cs",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Api\\Contracts\\Users\\LoginUserRequest.cs",
+              "RelativeToolTip": "Torrent.Api\\Contracts\\Users\\LoginUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:04:26.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Api\\Endpoints\\UserEndpoints.cs",
+              "RelativeDocumentMoniker": "Torrent.Api\\Endpoints\\UserEndpoints.cs",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Api\\Endpoints\\UserEndpoints.cs",
+              "RelativeToolTip": "Torrent.Api\\Endpoints\\UserEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:51:16.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Storage\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Torrent.Storage\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Storage\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Torrent.Storage\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvxcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:54:23.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Application\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Torrent.Application\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Application\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Torrent.Application\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:52:51.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Torrent.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Torrent.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:52:30.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

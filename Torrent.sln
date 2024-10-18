@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torrent.Api", "Torrent.Api\Torrent.Api.csproj", "{D8283C6E-F65F-4870-9567-F0E25D555BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torrent.Storage", "Torrent.Storage\Torrent.Storage.csproj", "{16A3ABB3-C7D1-4BF3-9535-14E97D76409F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torrent.Application", "Torrent.Application\Torrent.Application.csproj", "{F1C2992D-59E5-45F0-A8BC-4D6A9A828837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torrent.Core", "Torrent.Core\Torrent.Core.csproj", "{2A23AA55-3AC5-486A-9649-CDEA6A13A40D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torrent.Infrastructure", "Torrent.Infrastructure\Torrent.Infrastructure\Torrent.Infrastructure.csproj", "{63B2EFBF-5A94-4D80-B340-7851957845BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8283C6E-F65F-4870-9567-F0E25D555BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8283C6E-F65F-4870-9567-F0E25D555BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8283C6E-F65F-4870-9567-F0E25D555BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8283C6E-F65F-4870-9567-F0E25D555BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A3ABB3-C7D1-4BF3-9535-14E97D76409F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A3ABB3-C7D1-4BF3-9535-14E97D76409F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A3ABB3-C7D1-4BF3-9535-14E97D76409F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A3ABB3-C7D1-4BF3-9535-14E97D76409F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C2992D-59E5-45F0-A8BC-4D6A9A828837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C2992D-59E5-45F0-A8BC-4D6A9A828837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C2992D-59E5-45F0-A8BC-4D6A9A828837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C2992D-59E5-45F0-A8BC-4D6A9A828837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A23AA55-3AC5-486A-9649-CDEA6A13A40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A23AA55-3AC5-486A-9649-CDEA6A13A40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A23AA55-3AC5-486A-9649-CDEA6A13A40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A23AA55-3AC5-486A-9649-CDEA6A13A40D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B2EFBF-5A94-4D80-B340-7851957845BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B2EFBF-5A94-4D80-B340-7851957845BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B2EFBF-5A94-4D80-B340-7851957845BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B2EFBF-5A94-4D80-B340-7851957845BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB0C39C1-95FB-428B-A626-9DEF182597D7}
+	EndGlobalSection
+EndGlobal

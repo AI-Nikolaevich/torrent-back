@@ -1,0 +1,34 @@
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Infrastructure.deps.json
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Infrastructure.dll
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Infrastructure.pdb
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Application.dll
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Core.dll
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Application.pdb
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Core.pdb
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.AssemblyInfo.cs
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent..8EC50625.Up2Date
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.dll
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\refint\Torrent.Infrastructure.dll
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.pdb
+C:\Users\Handy Bandy\Desktop\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\ref\Torrent.Infrastructure.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Infrastructure.deps.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Infrastructure.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Infrastructure.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Application.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Core.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Application.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\bin\Debug\net8.0\Torrent.Core.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.AssemblyInfo.cs
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent..8EC50625.Up2Date
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\refint\Torrent.Infrastructure.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\Torrent.Infrastructure.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent\Torrent.Infrastructure\Torrent.Infrastructure\obj\Debug\net8.0\ref\Torrent.Infrastructure.dll

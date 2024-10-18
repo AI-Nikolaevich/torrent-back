@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Infrastructure\\Torrent.Infrastructure\\Torrent.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Application\\Torrent.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Application\\Torrent.Application.csproj",
+        "projectName": "Torrent.Application",
+        "projectPath": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Application\\Torrent.Application.csproj",
+        "packagesPath": "C:\\Users\\Handy Bandy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Handy Bandy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.voids.site/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Core\\Torrent.Core.csproj": {
+                "projectPath": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Core\\Torrent.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Core\\Torrent.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Core\\Torrent.Core.csproj",
+        "projectName": "Torrent.Core",
+        "projectPath": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Core\\Torrent.Core.csproj",
+        "packagesPath": "C:\\Users\\Handy Bandy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Handy Bandy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.voids.site/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Infrastructure\\Torrent.Infrastructure\\Torrent.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Infrastructure\\Torrent.Infrastructure\\Torrent.Infrastructure.csproj",
+        "projectName": "Torrent.Infrastructure",
+        "projectPath": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Infrastructure\\Torrent.Infrastructure\\Torrent.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Handy Bandy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Infrastructure\\Torrent.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Handy Bandy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.voids.site/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Application\\Torrent.Application.csproj": {
+                "projectPath": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Application\\Torrent.Application.csproj"
+              },
+              "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Core\\Torrent.Core.csproj": {
+                "projectPath": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent\\Torrent.Core\\Torrent.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

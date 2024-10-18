@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Torrent.Api.props" />
+</Project>
